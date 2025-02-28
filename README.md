@@ -1,4 +1,4 @@
-# 🌍 World Population Data Visualization 📊
+# 🌍 World Population Data Visualizations 📊
 
 Welcome to the **World Population Visualization Project**! This project showcases various insightful visualizations of global population trends, density distributions, and growth rates across continents and countries over the decades.
 
