@@ -33,7 +33,7 @@ Welcome to the **World Population Visualization Project**! This project showcase
   <img src=https://github.com/DhanrajGangnaik/World_Popultion/blob/master/3d%20surface%20plot.png />
 
 ## 🔍 **Project Overview**
-This project uses Python libraries like Matplotlib and Pandas to bring world population data to life through rich and interactive visualizations. The key insights derived from the project:
+This project uses Python libraries like Matplotlib and Pandas to bring world population data to life through rich and interactive visualizations.The key insights derived from the project:
 
 - **Population Trends**: You can easily track the growth patterns of countries and continents over the decades.
 - **Population Density**: Spot the outliers and clusters of densely populated countries.
